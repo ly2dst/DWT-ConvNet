@@ -3,7 +3,6 @@ import torch.nn as nn
 from torchvision import datasets,transforms
 from torch.utils.data import DataLoader
 from WLCNN import Model
-from CNN import SimpleCNN
 import torch.optim as opt
 transformer = transforms.Compose([
     transforms.Resize((512, 512)),  
