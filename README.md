@@ -7,6 +7,6 @@
 <img width="651" alt="image" src="https://github.com/user-attachments/assets/71119618-2f7a-4bb3-9582-02b7d28a3a7b">
 
     The hdr file descripts the detailed information of hyperspectral data, including the number of rows and columes, number of bands, the data type, endianness, pixel arrangement and the involved wavelengths.
-    <img width="880" alt="image" src="https://github.com/user-attachments/assets/05c3540a-2fa2-4975-925f-84f574da0598">
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/05c3540a-2fa2-4975-925f-84f574da0598">
 
 
