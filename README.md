@@ -5,4 +5,5 @@
     The structure of hyperspectral files are as shown in the picture, which contains a description file with extension of".hdr" and data file with extension of ".cube".
 <img width="651" alt="image" src="https://github.com/user-attachments/assets/71119618-2f7a-4bb3-9582-02b7d28a3a7b">
     The hdr file descripts the detailed information of hyperspectral data, including the number of rows and columes, number of bands, the data type, endianness, pixel arrangement and the involved wavelengths
+    
     <img width="438" alt="image" src="https://github.com/user-attachments/assets/91a4f306-b30f-4089-8ed6-b145380c441e">
