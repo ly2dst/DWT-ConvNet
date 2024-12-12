@@ -12,4 +12,5 @@
     img=spectral.open_image('sample.hdr')
     data=img.load()
 
-    The ".cube"file and ".hdr" files must be in the same path, where open_image() function loads the description imformation while ".load()" function load the whole hyperspectral data in the same folder correspondingly according to the description. Additionally, to fit the python package we suggest adjusting the extension of ".cube" file to ".img" for more compatibility. Because the files are read in binary mode, extension only effects the process of searching files.
+    The ".cube"file and ".hdr" files must be in the same path, where open_image() function loads the description imformation while ".load()" function load the whole hyperspectral data in the same folder correspondingly according to the description. 
+    Additionally, to fit the python package we suggest adjusting the extension of ".cube" file to ".img" for more compatibility. Because the files are read in binary mode, extension only effects the process of searching files.
