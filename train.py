@@ -12,8 +12,8 @@ transformer = transforms.Compose([
     transforms.Grayscale(num_output_channels=1),
     transforms.Normalize(mean=[0.5], std=[0.5]) 
 ])
-train_dir="Dataset/Persimmon/Train"
-test_dir="Dataset/Persimmon/Test"
+train_dir="dataset/train"
+test_dir="dataset/test"
 Trainset=datasets.ImageFolder(train_dir,transform=transformer)
 TraindataLoader=DataLoader(dataset=Trainset,batch_size=64,shuffle=True)
 
