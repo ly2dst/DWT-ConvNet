@@ -15,5 +15,5 @@
     The ".cube"file and ".hdr" files must be in the same path, where open_image() function loads the description imformation while ".load()" function load the whole hyperspectral data in the same folder correspondingly according to the description. 
     Additionally, to fit the python package we suggest adjusting the extension of ".cube" file to ".img" for more compatibility. Because the files are read in binary mode, extension only effects the process of searching files.
     ".load()" function returns a 3-d numpy array
-    <img width="382" alt="image" src="https://github.com/user-attachments/assets/25cd7d1d-1586-4ed8-8866-802caaf6cead" />
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/25cd7d1d-1586-4ed8-8866-802caaf6cead" />
 
