@@ -12,5 +12,6 @@
     In python, the file can be read through package "spectral" with the code:
    ```python
     img=spectral.open_image('1.hdr')
-    data=img.load()  
+    data=img.load()
+
     The ".cube"file and ".hdr" files must be in the same path, where open_image() function loads the description while ".load()" function load the whole hyperspectral data in the same folder correspondingly according to the description.
